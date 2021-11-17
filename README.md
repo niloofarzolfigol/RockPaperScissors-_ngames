@@ -1,2 +1,2 @@
-# RockPaperScissors-_ngames
-Want to play Roc kPaper Scissors?
+# RockPaperScissors_ngames
+Want to play Rock Paper Scissors?
